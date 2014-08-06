@@ -1,0 +1,8 @@
+{
+    "id": "nodebb-theme-flip",
+    "name": "Flip Theme for NodeBB",
+    "description": "A flip theme for NodeBB. Flip categories over to see their details!",
+    "url": "https://www.github.com/paaltomo/nodebb-theme-flip",
+    "screenshot": "screenshot.png",
+    "templates": "templates"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "nodebb-theme-flip",
+  "version": "0.0.10",
+  "description": "Flip Theme for NodeBB",
+  "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paaltomo/nodebb-theme-flip"
+  },
+  "keywords": [
+    "nodebb",
+    "flip",
+    "theme",
+    "themes"
+  ],
+  "author": {
+    "name": "paaltomo",
+    "email": "tanner@paaltomo.com"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/paaltomo/nodebb-theme-flip/issues"
+  },
+  "peerDependencies": {
+    "nodebb-theme-vanilla": "~0.0.111"
+  },
+  "homepage": "https://github.com/paaltomo/nodebb-theme-flip",
+  "_id": "nodebb-theme-lavender@0.0.10",
+  "maintainers": [
+    {
+      "name": "paaltomo",
+      "email": "tanner@paaltomo.com"
+    },
+  ],
+  "directories": {}

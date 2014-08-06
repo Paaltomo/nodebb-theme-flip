@@ -1,0 +1,17 @@
+{
+	"id": "nodebb-theme-flip",
+	"library": "./lib/theme.js",
+	"hooks": [
+		{
+			"hook": "filter:widgets.getAreas", "method": "defineWidgetAreas", "callbacked": true
+		}
+	],
+	"staticDirs": {
+		"vendor": "static/vendor"
+	},
+	"scripts": [
+		"static/lib/flip.js",
+		"static/vendor/masonry.js",
+		"static/vendor/imagesLoaded.js"
+	]
+}
